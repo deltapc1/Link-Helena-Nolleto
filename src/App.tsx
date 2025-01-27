@@ -29,7 +29,7 @@ function App() {
             className="group flex items-center gap-3 bg-white/80 hover:bg-white/95 px-8 py-4 rounded-xl transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl w-[280px] backdrop-blur-sm"
           >
             <Cake className="w-6 h-6 text-[#C4A484]" />
-            <span className="text-xl font-semibold text-[#C4A484]">Cardápio Confeitaria</span>
+            <span className="text-xl font-semibold text-[#C4A484] whitespace-nowrap">Cardápio Confeitaria</span>
           </a>
         </div>
       </div>
